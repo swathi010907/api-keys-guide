@@ -1,6 +1,7 @@
 # API Keys: How to Store Them Safely
 
 A beginner's guide to keeping your API keys secret.
+Built for the NexLevr AI Integration Internship (Beginner track), Task 3.
 
 ## What is an API key?
 
